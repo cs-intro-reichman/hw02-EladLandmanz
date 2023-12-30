@@ -13,7 +13,7 @@ public class Perfect {
 			}
 		}
 		if (divisors_sum == input_num){
-			perfect_str = (perfect_str + " = " + input_num);
+			//perfect_str = (perfect_str + " = " + input_num);
 			System.out.println(perfect_str);	
 		}
 		else{
